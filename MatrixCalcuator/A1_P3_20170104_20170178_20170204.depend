@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1551837058 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p3_20170104_20170178_20170204\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551909066 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p3_20170104_20170178_20170204\include\matrix.h
+	<iomanip>
+	<iostream>
+
+1551837044 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p3_20170104_20170178_20170204\include\matrixcalculator.h
+	"Matrix.h"
+
+1551881036 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p3_20170104_20170178_20170204\src\matrix.cpp
+	"Matrix.h"
+
+1551908926 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p3_20170104_20170178_20170204\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+
+1551837058 source:d:\a1_p3_20170104_20170178_20170204\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551838610 d:\a1_p3_20170104_20170178_20170204\include\matrix.h
+	<iomanip>
+	<iostream>
+
+1551837044 d:\a1_p3_20170104_20170178_20170204\include\matrixcalculator.h
+	"Matrix.h"
+
+1551837058 source:h:\a1_p3_20170104_20170178_20170204\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551838610 h:\a1_p3_20170104_20170178_20170204\include\matrix.h
+	<iomanip>
+	<iostream>
+
+1551837044 h:\a1_p3_20170104_20170178_20170204\include\matrixcalculator.h
+	"Matrix.h"
+
+1551881036 source:h:\a1_p3_20170104_20170178_20170204\src\matrix.cpp
+	"Matrix.h"
+
+1551908926 source:h:\a1_p3_20170104_20170178_20170204\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+
+1551837058 source:f:\a1_p3_20170104_20170178_20170204\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1551909008 f:\a1_p3_20170104_20170178_20170204\include\matrix.h
+	<iomanip>
+	<iostream>
+
+1551837044 f:\a1_p3_20170104_20170178_20170204\include\matrixcalculator.h
+	"Matrix.h"
+
+1551881036 source:f:\a1_p3_20170104_20170178_20170204\src\matrix.cpp
+	"Matrix.h"
+
+1551908926 source:f:\a1_p3_20170104_20170178_20170204\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+
